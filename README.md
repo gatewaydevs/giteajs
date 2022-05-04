@@ -1,0 +1,2 @@
+# giteajs
+Gitea API client
